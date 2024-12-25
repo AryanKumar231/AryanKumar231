@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanKumar231
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python(Pandas)
+- 🌱 I’m currently learning NodeJS(Javascript)
 
 <!---
 AryanKumar231/AryanKumar231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
